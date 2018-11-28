@@ -1,3 +1,4 @@
+```
 # AW
 
 1.- Estructura minima de una web:
@@ -73,4 +74,4 @@
       
       a[href="http://www.ejemplo.com"] { color: blue; }
         Todos los enlaces que ponga href="http://www.ejemplo.com" tengan el color de letra azul
- 
+ ```
