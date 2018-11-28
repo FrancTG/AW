@@ -2,13 +2,14 @@
 
 1.- Estructura minima de una web:
 
-"<head>
+<head>
 	<title></title>
 </head>
 <body>
 
 </body>
-</html>"
+</html>
+
 
 2.- Explica las 3 formas de usar CSS en HTML:
  - CSS Externo:
@@ -21,7 +22,7 @@
   Se usa en las etiquetas usando el atributo style="".
  
 3.- Crea una lista sin ordenar con 5 ingredientes de una receta de cocina.
- <ul>
+<ul>
   <li> 300g Harina
   <li> 150g Azúcar
   <li> 1/2 Levadura
