@@ -1,14 +1,14 @@
 # AW
 
 1.- Estructura minima de una web:
-<!-- <html>
-<head>
+
+"<head>
 	<title></title>
 </head>
 <body>
 
 </body>
-</html> -->
+</html>"
 
 2.- Explica las 3 formas de usar CSS en HTML:
  - CSS Externo:
@@ -21,13 +21,13 @@
   Se usa en las etiquetas usando el atributo style="".
  
 3.- Crea una lista sin ordenar con 5 ingredientes de una receta de cocina.
-<!-- <ul>
+ <ul>
   <li> 300g Harina
   <li> 150g Azúcar
   <li> 1/2 Levadura
   <li> 2 Limones
   <li> 150ml aceicte
-</ul> -->
+</ul>
 
 4.- Como se puede incluir javascript en HTML.
    Poniendo: <script type="text/javascript"></script>
@@ -36,7 +36,7 @@
   Una clase puedes identificar varios elementos y con una ID solo 1.
 
 6.- Código para hacer un enlace a otra página y que esta se abra en una nueva ventana.
-  <!-- <a href="pagina.html" target="_blank">Enlaceaotrapagina</a>. -->
+  <a href="pagina.html" target="_blank">Enlaceaotrapagina</a>.
 
 7.- ¿Qué son las pseudoclases?, pon ejemplos.
   Son palabras clave que se ponen en los selectores y especifican un estado especial de un elemento.
@@ -49,11 +49,11 @@
 
 9.- Explica que son los selectores de CSS y pon ejemplos
   Son patrones que se utilizan para seleccion elementos a los que vas a aplicar un estilo.
-  <!-- * {}
+  * {}
   p {}
   ul {}
   li {}
-  body {} -->
+  body {}
   
 10.- Di a quien afectan:
       p a { color: red; }
